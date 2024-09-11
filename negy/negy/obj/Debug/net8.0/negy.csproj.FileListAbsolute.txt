@@ -1,0 +1,14 @@
+C:\Users\patakib22\source\repos\negy\negy\bin\Debug\net8.0\negy.exe
+C:\Users\patakib22\source\repos\negy\negy\bin\Debug\net8.0\negy.deps.json
+C:\Users\patakib22\source\repos\negy\negy\bin\Debug\net8.0\negy.runtimeconfig.json
+C:\Users\patakib22\source\repos\negy\negy\bin\Debug\net8.0\negy.dll
+C:\Users\patakib22\source\repos\negy\negy\bin\Debug\net8.0\negy.pdb
+C:\Users\patakib22\source\repos\negy\negy\obj\Debug\net8.0\negy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patakib22\source\repos\negy\negy\obj\Debug\net8.0\negy.AssemblyInfoInputs.cache
+C:\Users\patakib22\source\repos\negy\negy\obj\Debug\net8.0\negy.AssemblyInfo.cs
+C:\Users\patakib22\source\repos\negy\negy\obj\Debug\net8.0\negy.csproj.CoreCompileInputs.cache
+C:\Users\patakib22\source\repos\negy\negy\obj\Debug\net8.0\negy.dll
+C:\Users\patakib22\source\repos\negy\negy\obj\Debug\net8.0\refint\negy.dll
+C:\Users\patakib22\source\repos\negy\negy\obj\Debug\net8.0\negy.pdb
+C:\Users\patakib22\source\repos\negy\negy\obj\Debug\net8.0\negy.genruntimeconfig.cache
+C:\Users\patakib22\source\repos\negy\negy\obj\Debug\net8.0\ref\negy.dll

@@ -1,0 +1,14 @@
+C:\Users\patakib22\source\repos\elsoprog\elsoprog\obj\Debug\net8.0\elsoprog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patakib22\source\repos\elsoprog\elsoprog\obj\Debug\net8.0\elsoprog.AssemblyInfoInputs.cache
+C:\Users\patakib22\source\repos\elsoprog\elsoprog\obj\Debug\net8.0\elsoprog.AssemblyInfo.cs
+C:\Users\patakib22\source\repos\elsoprog\elsoprog\obj\Debug\net8.0\elsoprog.csproj.CoreCompileInputs.cache
+C:\Users\patakib22\source\repos\elsoprog\elsoprog\bin\Debug\net8.0\elsoprog.exe
+C:\Users\patakib22\source\repos\elsoprog\elsoprog\bin\Debug\net8.0\elsoprog.deps.json
+C:\Users\patakib22\source\repos\elsoprog\elsoprog\bin\Debug\net8.0\elsoprog.runtimeconfig.json
+C:\Users\patakib22\source\repos\elsoprog\elsoprog\bin\Debug\net8.0\elsoprog.dll
+C:\Users\patakib22\source\repos\elsoprog\elsoprog\bin\Debug\net8.0\elsoprog.pdb
+C:\Users\patakib22\source\repos\elsoprog\elsoprog\obj\Debug\net8.0\elsoprog.dll
+C:\Users\patakib22\source\repos\elsoprog\elsoprog\obj\Debug\net8.0\refint\elsoprog.dll
+C:\Users\patakib22\source\repos\elsoprog\elsoprog\obj\Debug\net8.0\elsoprog.pdb
+C:\Users\patakib22\source\repos\elsoprog\elsoprog\obj\Debug\net8.0\elsoprog.genruntimeconfig.cache
+C:\Users\patakib22\source\repos\elsoprog\elsoprog\obj\Debug\net8.0\ref\elsoprog.dll

@@ -1,0 +1,14 @@
+C:\Users\patakib22\source\repos\masod\masod\bin\Debug\net8.0\masod.exe
+C:\Users\patakib22\source\repos\masod\masod\bin\Debug\net8.0\masod.deps.json
+C:\Users\patakib22\source\repos\masod\masod\bin\Debug\net8.0\masod.runtimeconfig.json
+C:\Users\patakib22\source\repos\masod\masod\bin\Debug\net8.0\masod.dll
+C:\Users\patakib22\source\repos\masod\masod\bin\Debug\net8.0\masod.pdb
+C:\Users\patakib22\source\repos\masod\masod\obj\Debug\net8.0\masod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patakib22\source\repos\masod\masod\obj\Debug\net8.0\masod.AssemblyInfoInputs.cache
+C:\Users\patakib22\source\repos\masod\masod\obj\Debug\net8.0\masod.AssemblyInfo.cs
+C:\Users\patakib22\source\repos\masod\masod\obj\Debug\net8.0\masod.csproj.CoreCompileInputs.cache
+C:\Users\patakib22\source\repos\masod\masod\obj\Debug\net8.0\masod.dll
+C:\Users\patakib22\source\repos\masod\masod\obj\Debug\net8.0\refint\masod.dll
+C:\Users\patakib22\source\repos\masod\masod\obj\Debug\net8.0\masod.pdb
+C:\Users\patakib22\source\repos\masod\masod\obj\Debug\net8.0\masod.genruntimeconfig.cache
+C:\Users\patakib22\source\repos\masod\masod\obj\Debug\net8.0\ref\masod.dll
