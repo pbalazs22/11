@@ -1,0 +1,14 @@
+C:\Users\patakib22\source\repos\hatultesztelociklis\hatultesztelociklis\obj\Debug\net8.0\hatultesztelociklis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patakib22\source\repos\hatultesztelociklis\hatultesztelociklis\obj\Debug\net8.0\hatultesztelociklis.AssemblyInfoInputs.cache
+C:\Users\patakib22\source\repos\hatultesztelociklis\hatultesztelociklis\obj\Debug\net8.0\hatultesztelociklis.AssemblyInfo.cs
+C:\Users\patakib22\source\repos\hatultesztelociklis\hatultesztelociklis\obj\Debug\net8.0\hatultesztelociklis.csproj.CoreCompileInputs.cache
+C:\Users\patakib22\source\repos\hatultesztelociklis\hatultesztelociklis\bin\Debug\net8.0\hatultesztelociklis.exe
+C:\Users\patakib22\source\repos\hatultesztelociklis\hatultesztelociklis\bin\Debug\net8.0\hatultesztelociklis.deps.json
+C:\Users\patakib22\source\repos\hatultesztelociklis\hatultesztelociklis\bin\Debug\net8.0\hatultesztelociklis.runtimeconfig.json
+C:\Users\patakib22\source\repos\hatultesztelociklis\hatultesztelociklis\bin\Debug\net8.0\hatultesztelociklis.dll
+C:\Users\patakib22\source\repos\hatultesztelociklis\hatultesztelociklis\bin\Debug\net8.0\hatultesztelociklis.pdb
+C:\Users\patakib22\source\repos\hatultesztelociklis\hatultesztelociklis\obj\Debug\net8.0\hatultesztelociklis.dll
+C:\Users\patakib22\source\repos\hatultesztelociklis\hatultesztelociklis\obj\Debug\net8.0\refint\hatultesztelociklis.dll
+C:\Users\patakib22\source\repos\hatultesztelociklis\hatultesztelociklis\obj\Debug\net8.0\hatultesztelociklis.pdb
+C:\Users\patakib22\source\repos\hatultesztelociklis\hatultesztelociklis\obj\Debug\net8.0\hatultesztelociklis.genruntimeconfig.cache
+C:\Users\patakib22\source\repos\hatultesztelociklis\hatultesztelociklis\obj\Debug\net8.0\ref\hatultesztelociklis.dll

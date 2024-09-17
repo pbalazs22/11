@@ -1,0 +1,14 @@
+C:\Users\patakib22\source\repos\otodik\otodik\bin\Debug\net8.0\otodik.exe
+C:\Users\patakib22\source\repos\otodik\otodik\bin\Debug\net8.0\otodik.deps.json
+C:\Users\patakib22\source\repos\otodik\otodik\bin\Debug\net8.0\otodik.runtimeconfig.json
+C:\Users\patakib22\source\repos\otodik\otodik\bin\Debug\net8.0\otodik.dll
+C:\Users\patakib22\source\repos\otodik\otodik\bin\Debug\net8.0\otodik.pdb
+C:\Users\patakib22\source\repos\otodik\otodik\obj\Debug\net8.0\otodik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patakib22\source\repos\otodik\otodik\obj\Debug\net8.0\otodik.AssemblyInfoInputs.cache
+C:\Users\patakib22\source\repos\otodik\otodik\obj\Debug\net8.0\otodik.AssemblyInfo.cs
+C:\Users\patakib22\source\repos\otodik\otodik\obj\Debug\net8.0\otodik.csproj.CoreCompileInputs.cache
+C:\Users\patakib22\source\repos\otodik\otodik\obj\Debug\net8.0\otodik.dll
+C:\Users\patakib22\source\repos\otodik\otodik\obj\Debug\net8.0\refint\otodik.dll
+C:\Users\patakib22\source\repos\otodik\otodik\obj\Debug\net8.0\otodik.pdb
+C:\Users\patakib22\source\repos\otodik\otodik\obj\Debug\net8.0\otodik.genruntimeconfig.cache
+C:\Users\patakib22\source\repos\otodik\otodik\obj\Debug\net8.0\ref\otodik.dll
